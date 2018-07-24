@@ -31,7 +31,7 @@
     "name": "Halo-halo de iloko",
     "imageUrl": "https://raw.githubusercontent.com/maruthmiranda/ruth/master/New%20folder/halo.jpg",
     "price": 300,
-    "priceCurrency": "₱",
+    "priceCurrency": "₱", 
     "lat": 16.657479,
     "lng": 120.320558
   },
